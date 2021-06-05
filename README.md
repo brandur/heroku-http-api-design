@@ -22,7 +22,9 @@ cover all of the fundamentals of those in this guide.
 This is a fork of the original document at
 [interagent/http-api-design](https://github.com/interagent/http-api-design)
 before it changed to GitBook format. The intention is to bring it back to a
-single, unified document that's more easily digestible.
+single, unified document that's more easily digestible. I wrote a little more
+background [in blog format
+here](https://brandur.org/fragments/heroku-http-api-design-guide).
 
 ## Contents
 
