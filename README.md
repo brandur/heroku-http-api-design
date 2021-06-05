@@ -17,6 +17,13 @@ way_.
 We assume you’re familiar with the basics of HTTP+JSON APIs and won’t
 cover all of the fundamentals of those in this guide.
 
+## This fork
+
+This is a fork of the original document at
+[interagent/http-api-design](https://github.com/interagent/http-api-design)
+before it changed to GitBook format. The intention is to bring it back to a
+single, unified document that's more easily digestible.
+
 ## Contents
 
 * [Foundations](#foundations)
